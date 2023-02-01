@@ -1,0 +1,92 @@
+{
+    "personal" : {
+        "about_me" : [
+            "I am a Senior Python Developer / Contractor / Freelancer with 7+ years of experience, only interested in remote work.",
+            "I help companies around the world to design and implement their software solutions.",
+            "Let's have a talk and see how my expertise can help your business."
+        ],
+        "contact": {
+            "phone_number" : "004 0729 602 490",
+            "email": "alex.mrgt.dev@gmail.com",
+            "location": "Iasi, Romania",
+            "linked-in": "https://www.linkedin.com/in/alex-mrgt/"
+        },
+        "skills": {
+            "Python": 6,
+            "Django": 2,
+            "SQL": 3,
+            "Bash scripting": 4,
+            "Powershell": 4,
+            "Azure DevOps": 2,
+            "Ansible": 1,
+            "Git": 3,
+            "Google API": 1,
+            "Virtualization": 6,
+            "Docker": 1,
+            "Networking and servers management": 7,
+            "Linux": 7,
+            "Windows": 7
+        }
+    },
+    "experience": [
+        {
+            "project_name": "Project Management app",
+            "company": "SABS",
+            "challenge": "The client, a Belgian company specialized in construction, was wasting a significant amount of time. The lack of an efficient solution to planning work resources, such as work teams and materials that caused bookings to occasionally overlap",
+            "contribution": [
+                "Designed and implemented the core of a custom-tailored resource management platform to be used by the company managers to plan and track day-to-day work. Thus, ensured over 1M eur in revenues.", 
+                "Created necessary pipelines for CI/CD, which led to the increase of efficiency by more than 30% in the process of software developmen."
+            ],
+            "interval": "Sep 2021 - Oct 2022",
+            "skills" : [
+                "Python", 
+                "Django", 
+                "MySQL", 
+                "Bootstrap 5", 
+                "Git", 
+                "Azure DevOps", 
+                "Linux"
+            ]
+        },
+
+        {
+            "project_name": "Users Management app",
+            "company": "SABS",
+            "challenge": "The client, a multinational corporation that had multiple HR software for different regions, was wasting a significant amount of time in manually fixing account issues. To implement a centralized platform was required.",
+            "contribution": [
+                "Developed an internal application to automate the HR process. As a result the number of tickets related to account issues went down by 80%. As well as there were no more hires without credentials. Additionally, all accounts worldwide could be filled out using the same template."
+            ],
+            "interval": "Jan 2018 - Oct 2022",
+            "skills" : [
+                "Django", "Powershell", "Microsoft SQL", "Azure DevOps", "Active Directory", "Git"
+            ]
+        },
+
+        {
+            "project_name": "Contracts Management app",
+            "company": "Artehnis",
+            "challenge": "The client, a local architecture company, was dealing with a significant number of deadline breaches. It required a solution to keep track of contract.",
+            "contribution": [
+                "Created visibility in contracts by developing an user friendly and highly intuitive web application, which made the most through the versatility of Django's framework. As a result over 300k eur in revenue were secured."
+            ],
+            "interval": "Feb 2021 - Aug 2021",
+            "skills" : [
+                "Python", "Django", "PostgreSQL", "Bootstrap 5", "Git", "GitLab", "Linux", "Nginx"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "MSc, Distributed Systems and Web Tech",
+            "institution_name": "Technical University \"Gheorghe Asachi\"",
+            "location": "Iasi",
+            "interval": "2014-2016"
+        },
+        {
+            "title": "BSc, Computer Science",
+            "institution_name": "Technical University \"Gheorghe Asachi\"",
+            "location": "Iasi",
+            "interval": "2010-2014"
+        }
+    ]
+}
